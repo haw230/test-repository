@@ -9,7 +9,7 @@ void a
 
 
 
-(int b)
+(int b, int c)
 
 
 
@@ -19,7 +19,7 @@ void a
 {
 
 
-
+return;
 
 
 }
